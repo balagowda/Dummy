@@ -8,9 +8,14 @@ public class Test{
 	public void testMethod2(){
 		assert(true);
 	}
+<<<<<<< HEAD
 
 	@Test
 	public void testMethod4(){
+=======
+	@Test
+	public void testMethod3(){
+>>>>>>> refs/remotes/origin/main
 		assert(true);
 	}
 }
