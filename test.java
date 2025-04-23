@@ -8,4 +8,8 @@ public class Test{
 	public void testMethod2(){
 		assert(true);
 	}
+	@Test
+	public void testMethod3(){
+		assert(true);
+	}
 }
